@@ -75,7 +75,7 @@ Il faut avoir `git` et `python3` d'installer sur sa machine
 
     sudo apt install git python3 #sur les distributions utilisant APT (comme la famille Debian)
 
-    git clone https://github.com/Lulz3xploit/LittleBrother
+    git clone https://github.com/WhiteHacker888/LittleBrother.git
 
     cd LittleBrother
 
