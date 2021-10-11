@@ -75,9 +75,9 @@ Il faut avoir `git` et `python3` d'installer sur sa machine
 
     sudo apt install git python3 #sur les distributions utilisant APT (comme la famille Debian)
 
-    git clone https://github.com/WhiteHacker888/LittleBrother.git
+    git clone https://github.com/WhiteHacker888/LittleBrother_UZB.git
 
-    cd LittleBrother
+    cd LittleBrother_UZB
 
     python3 -m pip install -r requirements.txt
 
@@ -150,7 +150,7 @@ Discord
 Momentanément clos.
 
 Compatible
-=
+
 
 - Windows
 
